@@ -1,0 +1,28 @@
+﻿1
+Găina
+Găina este o pasăre domestică.Este crescută pentru carne și ouă.Masculul găinii se numește cocoș. El este mai mare decât femela, are un penaj multicolor, o creastă și bărbie roșie.
+2
+Rața
+Rața este o  pasăre de apă.Majoritatea rațelor au un cioc lung și lat, folosit la săpat. Rațele au un meniu divers; pot consuma ierburi, plante acvatice, pești, insecte, amfibieni mici, viermi și moluște mici.De la ele se folosesc carnea, ouăle dar și penele.
+3
+Vaca
+Vaca este un animal domestic.Vacile sunt crescute pentru carne piele și lapte, precum și ca animale de tracțiune.Puiul de până la un an se numește vițel, indiferent de sex;Vaca are corpul acoperit cu păr scurt, culoarea variind după rasă.O dată pe an vaca dă naștere unui vițel, pe care îl hrănește cu lapte.
+4
+Oaia
+Oaia este o specie de mamifere rumegătoare, domesticite, crescute pentru lână, piele, blană, carne și lapte.Lână, blană și piele, pentru îmbrăcăminte și covoare;carne de miel, de oaie și de berbec;lapte pentru băut, pentru brânză și alte produse.Lungimea oii este, în medie, 1,5 m, având o coadă scurtă și un adult poate cântări de la 75–200 kg.
+5
+Capra
+Ele sunt animale erbivore, rumegătoare.Animalele au lungimea corpului între 1–1,8 m, o coadă scurtă de 10–20 cm.Greutatea se situează între 25 și 150 kg, masculii fiind mai masivi decât femelele.Culoarea blănii variază de la cenușiu gălbui la brun închis.
+6
+Calul
+Calul  este un mamifer erbivor de mărime considerabilă.Corpul calului este zvelt, iar gâtul este puternic și poartă o coamă.Este folosit pentru călărie, tracțiune și dresaj.Calul  are speranță de viață cuprinsă între 25 și 30 de ani.
+7
+Porcul
+Porcul este, alături de câine, cel mai vechi animal domesticit de oameni.Porcul poate fii hrănit cu aproape orice.Durata naturală de viață a porcului este de aproximativ 12 ani.Carnea de porc este preferată de consumatorii de carne de aceea fiind si crescut in ferme. 
+8
+Câinele
+Câinele este posibil să fie primul animal domesticit și cel mai folosit pentru muncă, vânătoare și companie.Acesta provine din lupul cenușiu.Speranța de viață a câinilor este între 8 și 15 ani, în funcție de rasă. Cel mai longeviv câine despre care există date a trăit 30 de ani.Câinii sunt folosiți la pază sau pentru ajutor la treburile ce țin de celelalte animale.
+9
+Pisica
+Pisica este un mamifer.Este alături de oameni de peste 9500 ani.Pisica trăiește în strânsă legătură cu oamenii  fiind folosită pentru a ține departe șoarecii.Auzul pisicii este foarte sensibil iar văzul este simțul său principal.Simțul mirosului la pisică este de patru ori mai dezvoltat decât al omului.
+10

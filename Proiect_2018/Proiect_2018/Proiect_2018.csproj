@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87420267-22AE-4165-854C-B34185C77041}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proiect_2018</RootNamespace>
+    <AssemblyName>Proiect_2018</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ferma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferma.Designer.cs">
+      <DependentUpon>Ferma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jungla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jungla.Designer.cs">
+      <DependentUpon>Jungla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Polar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Polar.Designer.cs">
+      <DependentUpon>Polar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnimaleRomania.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnimaleRomania.Designer.cs">
+      <DependentUpon>AnimaleRomania.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cont.Designer.cs">
+      <DependentUpon>Cont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creeare_lectie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creeare_lectie.Designer.cs">
+      <DependentUpon>Creeare_lectie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creeaza_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creeaza_test.Designer.cs">
+      <DependentUpon>Creeaza_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inregistrare.Designer.cs">
+      <DependentUpon>Inregistrare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lectii_postate2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lectii_postate2.Designer.cs">
+      <DependentUpon>Lectii_postate2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Raspunsuri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raspunsuri.Designer.cs">
+      <DependentUpon>Raspunsuri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testare.Designer.cs">
+      <DependentUpon>Testare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TesteMari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TesteMari.Designer.cs">
+      <DependentUpon>TesteMari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestePostate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestePostate.Designer.cs">
+      <DependentUpon>TestePostate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VariabilaGlobala.cs" />
+    <Compile Include="Vezi_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vezi_note.Designer.cs">
+      <DependentUpon>Vezi_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vizualizare_lectii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vizualizare_lectii.Designer.cs">
+      <DependentUpon>Vizualizare_lectii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZooHub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZooHub.Designer.cs">
+      <DependentUpon>ZooHub.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ferma.resx">
+      <DependentUpon>Ferma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jungla.resx">
+      <DependentUpon>Jungla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Polar.resx">
+      <DependentUpon>Polar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnimaleRomania.resx">
+      <DependentUpon>AnimaleRomania.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cont.resx">
+      <DependentUpon>Cont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creeare_lectie.resx">
+      <DependentUpon>Creeare_lectie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creeaza_test.resx">
+      <DependentUpon>Creeaza_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inregistrare.resx">
+      <DependentUpon>Inregistrare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lectii_postate2.resx">
+      <DependentUpon>Lectii_postate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raspunsuri.resx">
+      <DependentUpon>Raspunsuri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testare.resx">
+      <DependentUpon>Testare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TesteMari.resx">
+      <DependentUpon>TesteMari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestePostate.resx">
+      <DependentUpon>TestePostate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vezi_note.resx">
+      <DependentUpon>Vezi_note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vizualizare_lectii.resx">
+      <DependentUpon>Vizualizare_lectii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZooHub.resx">
+      <DependentUpon>ZooHub.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100deAni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descărcare %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descărcare.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Harta Romaniei.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Educational.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Educational_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Educational.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\cartoon-happy-little-animal-zoo-illustration-69170982.jpg" />
+    <None Include="Resources\padure2.jpg" />
+    <None Include="Resources\padure-din-muntii-carpati.jpg" />
+    <None Include="Resources\MamifereRomania.txt" />
+    <None Include="Resources\sageata.jpg" />
+    <None Include="Resources\ReptileRomania.txt" />
+    <None Include="Resources\PasariRomania.txt" />
+    <None Include="Resources\polar.jpg" />
+    <None Include="Resources\polar2.jpg" />
+    <None Include="Resources\Animalepolare.txt" />
+    <None Include="Resources\0013623.jpeg" />
+    <None Include="Resources\FermaAnimalelor.txt" />
+    <None Include="Resources\BackgroundJungla.jpg" />
+    <None Include="Resources\InfoJungla.txt" />
+    <None Include="Resources\start.jpg" />
+    <None Include="Resources\stop.jpg" />
+    <None Include="Resources\bioparc-valencia2.jpg" />
+    <None Include="Resources\punct.png" />
+    <Content Include="Resources\tigru.jpg" />
+    <None Include="Resources\tigru1.jpg" />
+    <None Include="Resources\descărcare1.jpg" />
+    <None Include="Resources\images2.jpg" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\lectia3.png" />
+    <None Include="Lectii\lectia3.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,116 @@
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csprojResolveAssemblyReference.cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Form1.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.Cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vizualizare_lectii.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Inregistrare.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational.mdf
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational_log.ldf
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Cont.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeare_lectie.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational.mdf
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational_log.ldf
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csprojResolveAssemblyReference.cache
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Cont.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeare_lectie.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Form1.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Inregistrare.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vizualizare_lectii.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.Cache
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Lectii_postate2.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeaza_test.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TestePostate.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Testare.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TesteMari.resources
+C:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vezi_note.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeaza_test.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Lectii_postate2.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Testare.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TesteMari.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TestePostate.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vezi_note.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational.mdf
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational_log.ldf
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csprojResolveAssemblyReference.cache
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Cont.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeare_lectie.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeaza_test.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Form1.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Inregistrare.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Lectii_postate2.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Testare.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TesteMari.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TestePostate.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vezi_note.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vizualizare_lectii.resources
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.Cache
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+F:\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational.mdf
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Educational_log.ldf
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csprojResolveAssemblyReference.cache
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Cont.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeare_lectie.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeaza_test.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Form1.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Inregistrare.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Lectii_postate2.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Testare.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TesteMari.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TestePostate.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vezi_note.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vizualizare_lectii.resources
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.Cache
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+C:\Users\Elev19\Desktop\PROIECT SESIUNE\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\bin\Debug\Educational.mdf
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\bin\Debug\Educational_log.ldf
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe.config
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.exe
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\bin\Debug\Proiect_2018.pdb
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csprojAssemblyReference.cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Cont.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeare_lectie.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Creeaza_test.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Form1.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Inregistrare.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Lectii_postate2.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Properties.Resources.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Testare.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TesteMari.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.TestePostate.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vezi_note.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Vizualizare_lectii.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.GenerateResource.cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.csproj.CoreCompileInputs.cache
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.exe
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.pdb
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Raspunsuri.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.AnimaleRomania.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.ZooHub.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Polar.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Ferma.resources
+C:\Users\Stefi\Desktop\PROIECT SESIUNE v2\Proiect_2018\Proiect_2018\obj\Debug\Proiect_2018.Jungla.resources
